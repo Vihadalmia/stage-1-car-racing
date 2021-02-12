@@ -1,1 +1,2 @@
-# stage-1-car-racing
+# synchronousBallMovement
+Ball moving synchronously
